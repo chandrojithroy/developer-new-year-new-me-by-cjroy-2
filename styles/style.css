@@ -1,0 +1,222 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header style */
+
+.header-title {
+    text-align: right;
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.main-header-h2 {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 65px;
+    padding-top: 210px;
+    margin-right: 230px;
+    margin-left: 876px;
+    margin-bottom: 12px;
+
+
+
+}
+
+.header-description {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 12px 230px 16px 876px;
+}
+
+.btn-primary {
+    color: #005FAC;
+    padding: 20px 30px;
+    margin: 16px 230px 270px 1210px;
+    border-radius: 5px;
+}
+
+/* banner style */
+.banner {
+    display: flex;
+    margin: 130px 280px 130px 240px;
+    align-items: center;
+}
+
+.banner-header-h3 {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.banner-check-color {
+    color: green;
+    margin-right: 10px;
+}
+
+.banner-list {
+    text-decoration: none;
+}
+
+.banner-title {
+    margin-left: 90px;
+}
+
+.banner-description {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 25px 15px;
+}
+
+.plans {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    margin: 130px 50px;
+    text-align: center;
+}
+
+/* Web Development */
+
+.development {
+    display: flex;
+    margin: 50px 230px 130px 230px;
+    text-align: center;
+}
+
+.development-title {
+    padding-right: 260px;
+
+
+}
+
+.development-bold {
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+
+
+}
+
+
+.development-description {
+    color: #737272;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 35px;
+
+}
+
+/* positive mindset */
+
+
+.btn-primary-2 {
+    color: #005FAC;
+    padding: 20px 30px;
+    border-radius: 5px;
+}
+
+.positive-mindset-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.positive-mindset {
+    margin: 130px 230px 130px 230px;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.positive-title {
+    padding: 60px 615px 60px 65px;
+
+
+}
+
+.positive-mindset-title {
+    margin-bottom: 24px;
+}
+
+/* contact style */
+
+.contact-main {
+    display: flex;
+    background: #151414;
+}
+
+.contact {
+    padding: 130px 150px 130px 230px;
+}
+
+
+.contact-title {
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+    padding: 23px 160px 23px 22px;
+}
+
+.btn-main input {
+    padding: 21px 160px 21px 22px;
+    background: #151414;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+}
+
+.contact-description {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 24px;
+
+}
+
+.contact-same {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+.btn-main {
+    padding: 130px 230px 240px 280px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.btn-primary-3 {
+    padding: 20px 36px 20px 36px;
+    background: #005FAC;
+    border-radius: 8px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.contact-title-2 {
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 60px;
+    margin-right: 320px;
+    margin-bottom: 20px;
+}
+
+.contact-email {
+    color: #F3F3F3;
+    font-weight: 400;
+    font-size: 18px;
+}
